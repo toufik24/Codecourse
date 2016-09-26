@@ -1,3 +1,8 @@
+# Self-destructing message app
+
+Build this basic app, learning important areas of developing with a framework as you go.
+
+
 Installation
 ------------
 
@@ -10,3 +15,5 @@ Tips
 ----
 
 You'll need to update the configuration file (config/app.php) with your base URL, database, and Mailgun settings.
+
+https://www.codecourse.com/library/lessons/self-destructing-message-app/introduction
