@@ -3,6 +3,8 @@
 Protecting email addresses from bots
 
 How to obscure an email address to protect it from anyone, or anything scraping your website.
+
+https://www.codecourse.com/library/lessons/protect-email-addresses-from-bots/introduction
 */
 echo obscure('hello@codecourse.com');
 
