@@ -1,5 +1,9 @@
 <?php
+/*
+Protecting email addresses from bots
 
+How to obscure an email address to protect it from anyone, or anything scraping your website.
+*/
 echo obscure('hello@codecourse.com');
 
 function obscure($value)
