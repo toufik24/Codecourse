@@ -16,3 +16,5 @@ If you have trouble installing any of these, follow the setting up part of the s
 # Notes
 
 The URL that you visit when over your local network will differ. You may need to access something like http://192.168.1.90/abc.
+
+https://www.codecourse.com/library/lessons/accelerometer-ball-control-app/introduction
