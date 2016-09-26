@@ -1,3 +1,7 @@
+# Build a Twitter Bot with Laravel
+
+A Twitter bot built with Laravel that uses sentiment analysis to reply to mentions with a happy, neutral or sad emoji.
+
 Installation
 ------------
 
