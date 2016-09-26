@@ -1,6 +1,6 @@
-# Build a Twitter Bot with Laravel
+# Build a Twitter style application
 
-A Twitter bot built with Laravel that uses sentiment analysis to reply to mentions with a happy, neutral or sad emoji.
+A Twitter style application with an automatically updating timeline, ability to follow users and basic authentication.
 
 Installation
 ------------
@@ -14,4 +14,4 @@ Installation
 7. Run migrations with `php artisan migrate`
 8. Head over to your browser.
 
-If you need any help, visit the community at https://codecourse.com/forum
+https://www.codecourse.com/library/lessons/twitter-style-application/introduction
