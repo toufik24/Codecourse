@@ -1,0 +1,17 @@
+{
+  "name": "ball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon server -e js,jade",
+    "start": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "socket.io": "^1.4.8"
+  }
+}
