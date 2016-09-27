@@ -1,4 +1,8 @@
-# forum
+# Single-page Forum App: Frontend
+
+Build the frontend of the single-page forum app with Vue.js.
+
+#Forum
 
 > A Vue.js project
 
@@ -25,3 +29,5 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+https://www.codecourse.com/library/lessons/single-page-forum-app-vue-js/introduction
